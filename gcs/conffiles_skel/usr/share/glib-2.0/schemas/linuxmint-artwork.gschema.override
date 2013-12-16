@@ -16,7 +16,6 @@ color-shading-type="solid"
 picture-uri='/usr/share/backgrounds/gecos/gecos_panoramico.jpg'
 show-desktop-icons=true
 draw-background=true
-picture-options="streched"
 
 [org.gnome.nautilus.desktop]
 computer-icon-visible=true
