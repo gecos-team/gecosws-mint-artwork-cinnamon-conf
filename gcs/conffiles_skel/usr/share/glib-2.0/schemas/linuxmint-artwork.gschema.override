@@ -1,7 +1,7 @@
 [org.gnome.desktop.interface]
 cursor-theme='DMZ-White'
 gtk-key-theme='Default'
-gtk-theme='Guada'
+gtk-theme='Gecos'
 icon-theme='Mint-X'
 menus-have-icons=true
 toolkit-accessibility=false
@@ -13,7 +13,7 @@ document-font-name="Sans 10"
 primary-color="#000000"
 secondary-color="#000000"
 color-shading-type="solid"
-picture-uri='/usr/share/backgrounds/guadalinex/guadalinexv9_panoramico.jpg'
+picture-uri='/usr/share/backgrounds/gecos/gecos_panoramico.jpg'
 show-desktop-icons=true
 draw-background=true
 picture-options="streched"
@@ -26,7 +26,6 @@ font="Sans 10"
 computer-icon-name='Equipo'
 home-icon-name='Carpeta Personal'
 trash-icon-name='Papelera'
-
 
 [org.gnome.nautilus.preferences]
 enable-delete=true
@@ -50,12 +49,10 @@ create-backup-copy=false
 hinting="slight"
 
 [org.cinnamon.theme]
-name='Guadalinex'
+name='Gecos'
 
 [org.cinnamon]
 favorite-apps=['nautilus.desktop', 'thunderbird.desktop']
 
 [org.gnome.settings-daemon.peripherals.touchpad]
 tap-to-click=true
-
-
