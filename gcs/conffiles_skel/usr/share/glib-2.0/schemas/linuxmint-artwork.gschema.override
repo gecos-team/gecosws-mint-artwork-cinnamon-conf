@@ -31,7 +31,7 @@ trash-icon-name='Papelera'
 enable-delete=true
 
 [org.gnome.desktop.wm.preferences]
-theme='Guada'
+theme='Gecos'
 button-layout='menu:minimize,maximize,close'
 num-workspaces=4
 titlebar-font="Sans Bold 10"
@@ -49,7 +49,7 @@ create-backup-copy=false
 hinting="slight"
 
 [org.cinnamon.theme]
-name='Gecos'
+name='Gecos-cinnamon'
 
 [org.cinnamon]
 favorite-apps=['nautilus.desktop', 'thunderbird.desktop']
