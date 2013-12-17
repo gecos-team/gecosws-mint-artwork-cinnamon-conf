@@ -1,5 +1,6 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de GECOS v2
+# Fichero de configuración de paquetes de personalización de Gecos v2
+
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
 name: gecosws-mint-artwork-cinnamon-conf
@@ -14,7 +15,7 @@ priority: optional
 section: metapackages
 
 # Descripción corta
-shortdesc: "GECOS v2 meta package which modifies the mint-artwork-cinnamon package."
+shortdesc: "Gecos v2 meta package which modifies the mint-artwork-cinnamon package."
 
 # Descipción larga, las lineas han de estar separadas por "\n "
 longdesc: "This metapackage modifies the default gesettings configuration from LM 13."
