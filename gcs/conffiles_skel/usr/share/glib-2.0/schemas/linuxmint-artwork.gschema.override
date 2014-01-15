@@ -52,7 +52,7 @@ name='Gecos-cinnamon'
 
 [org.cinnamon]
 favorite-apps=['firefox.desktop', 'nemo.desktop', 'thunderbird.desktop']
-panel-launchers=['firefox.desktop', 'help-mantis.desktop', 'gnome-terminal.desktop', 'nemo.desktop']
+panel-launchers=['firefox.desktop', 'gnome-terminal.desktop', 'nemo.desktop']
 
 [org.gnome.settings-daemon.peripherals.touchpad]
 tap-to-click=true
