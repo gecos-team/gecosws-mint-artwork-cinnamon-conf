@@ -28,7 +28,7 @@ show-desktop-icons=true
 computer-icon-visible=true
 home-icon-visible=true
 volumes-visible=true
-thras-icon-visible=true
+trash-icon-visible=true
 font="Sans 10"
 
 [org.nemo.windows-state]
@@ -40,7 +40,7 @@ thumbnail-limit=10485760
 
 
 [org.cinnamon.desktop.wm.preferences]
-theme='Guada'
+theme='Gecos'
 button-layout='menu:minimize,maximize,close'
 num-workspaces=4
 titlebar-font="Sans Bold 10"
@@ -48,7 +48,7 @@ titlebar-uses-system-font=false
 
 
 [org.gnome.desktop.wm.preferences]
-theme='Guada'
+theme='Gecos'
 button-layout='menu:minimize,maximize,close'
 num-workspaces=4
 titlebar-font="Sans Bold 10"
