@@ -1,7 +1,7 @@
 [org.cinnamon.desktop.interface]
 cursor-theme='DMZ-White'
 gtk-key-theme='Default'
-gtk-theme='Gecos'
+gtk-theme='Mint-X'
 icon-theme='Gecos'
 menus-have-icons=true
 toolkit-accessibility=false
