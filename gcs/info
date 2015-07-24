@@ -15,14 +15,14 @@ priority: optional
 section: metapackages
 
 # Descripción corta
-shortdesc: "Gecos v2 meta package which modifies the mint-artwork-cinnamon package."
+shortdesc: "GECOS v2 overwriting mint-artwork-cinnamon package configuration."
 
 # Descipción larga, las lineas han de estar separadas por "\n "
-longdesc: "This metapackage modifies the default gesettings configuration from LM 13."
+longdesc: "This metapackage modifies the default gsettings from Mint 13."
 
 
 # Versión del paquete
-version: 2.0
+version: 2.1
 
 # Cambios en esta versión
 changes:
