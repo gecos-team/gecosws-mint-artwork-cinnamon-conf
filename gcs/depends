@@ -2,6 +2,9 @@
 # File with depends 
 #END
 
+# Required by mint-artwork
+libglib2.0-bin
+# Substitute for old mint-artwork-cinnamon
 mint-artwork
 
 
