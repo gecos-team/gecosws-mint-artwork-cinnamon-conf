@@ -70,6 +70,7 @@ favorite-apps=['firefox.desktop', 'nemo.desktop', 'thunderbird.desktop']
 panel-launchers=['firefox.desktop', 'help-mantis.desktop', 'nemo.desktop']
 desktop-effects-minimize-effect="traditional"
 workspace-expo-view-as-grid=true
+app-menu-icon-name=gecos-menu
 
 
 [org.cinnamon.settings-daemon.peripherals.touchpad]
