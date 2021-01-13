@@ -1,5 +1,5 @@
 # YAML 1.1
-# Fichero de configuración de paquetes de personalización de Gecos v2
+# Fichero de configuración de paquetes de personalización de Gecos v4
 
 
 # Nombre del paquete (minúsculas-separado-con-guiones)
@@ -15,15 +15,16 @@ priority: optional
 section: metapackages
 
 # Descripción corta
-shortdesc: "GECOS v2 overwriting mint-artwork-cinnamon package configuration."
+shortdesc: "GECOS v4 overwriting mint-artwork-cinnamon package configuration."
 
 # Descipción larga, las lineas han de estar separadas por "\n "
-longdesc: "This metapackage modifies the default gsettings from Mint 13."
+longdesc: "This metapackage modifies the default gsettings from Mint 20."
 
 
 # Versión del paquete
-version: 2.1
+version: 2.2
 
 # Cambios en esta versión
 changes:
     - Initial release.
+    - Changes for Mint 20.
