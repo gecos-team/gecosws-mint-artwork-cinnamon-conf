@@ -78,32 +78,32 @@ tap-to-click=true
 
 [org.cinnamon.sounds]
 login-enabled=true
-login-file="/usr/share/mint-artwork-cinnamon/sounds/login.oga"
+login-file="/usr/share/mint-artwork/sounds/login.oga"
 switch-enabled=true
-switch-file="/usr/share/mint-artwork-cinnamon/sounds/switch.oga"
+switch-file="/usr/share/mint-artwork/sounds/switch.oga"
 close-enabled=true
-close-file="/usr/share/mint-artwork-cinnamon/sounds/close.oga"
+close-file="/usr/share/mint-artwork/sounds/close.oga"
 map-enabled=true
-map-file="/usr/share/mint-artwork-cinnamon/sounds/map.oga"
+map-file="/usr/share/mint-artwork/sounds/map.oga"
 minimize-enabled=true
-minimize-file="/usr/share/mint-artwork-cinnamon/sounds/minimize.oga"
+minimize-file="/usr/share/mint-artwork/sounds/minimize.oga"
 maximize-enabled=true
-maximize-file="/usr/share/mint-artwork-cinnamon/sounds/maximize.oga"
+maximize-file="/usr/share/mint-artwork/sounds/maximize.oga"
 unmaximize-enabled=true
-unmaximize-file="/usr/share/mint-artwork-cinnamon/sounds/unmaximize.oga"
+unmaximize-file="/usr/share/mint-artwork/sounds/unmaximize.oga"
 tile-enabled=true
-tile-file="/usr/share/mint-artwork-cinnamon/sounds/tile.oga"
+tile-file="/usr/share/mint-artwork/sounds/tile.oga"
 plug-enabled=true
-plug-file="/usr/share/mint-artwork-cinnamon/sounds/plug.oga"
+plug-file="/usr/share/mint-artwork/sounds/plug.oga"
 unplug-enabled=true
-unplug-file="/usr/share/mint-artwork-cinnamon/sounds/unplug.oga"
+unplug-file="/usr/share/mint-artwork/sounds/unplug.oga"
 
 [org.cinnamon.desktop.sound]
 theme-name="LinuxMint"
 event-sounds=false
 input-feedback-sounds=false
 volume-sound-enabled=true
-volume-sound-file="/usr/share/mint-artwork-cinnamon/sounds/volume.oga"
+volume-sound-file="/usr/share/mint-artwork/sounds/volume.oga"
 
 [org.cinnamon.screensaver]
 ask-for-away-message=false
